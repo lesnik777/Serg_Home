@@ -14,7 +14,7 @@
 
 ###################################################################
 
-def filter_words(st):
-    # Your code here.
-    return capitalize(st)
-print (filter_words('hello World'))
+# def filter_words(st):
+#     # Your code here.
+#     return capitalize(st)
+# print (filter_words('hello World'))
